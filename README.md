@@ -34,5 +34,15 @@ You can see the description of the implementation method in the following file:
 
 All of the results were mentioned in the documentation file which can be downloaded from this repository.
 
-![App Screenshot](https://github.com/kiananvari/LSTM-price-prediction/raw/main/Result.png)
+![App Screenshot](https://github.com/kiananvari/implementation-of-optimizers-and-regularizations-techniques/raw/main/Results/1.png)
+
+![App Screenshot](https://github.com/kiananvari/implementation-of-optimizers-and-regularizations-techniques/raw/main/Results/2.png)
+
+![App Screenshot](https://github.com/kiananvari/implementation-of-optimizers-and-regularizations-techniques/raw/main/Results/3.png)
+
+![App Screenshot](https://github.com/kiananvari/implementation-of-optimizers-and-regularizations-techniques/raw/main/Results/4.png)
+
+![App Screenshot](https://github.com/kiananvari/implementation-of-optimizers-and-regularizations-techniques/raw/main/Results/5.png)
+
+
 
