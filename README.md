@@ -28,7 +28,7 @@ implementation of optimizers and regularizations techniques and test the result 
 ## Documentation
 
 You can see the description of the implementation method in the following file:  
-[Click Here](https://linktodocumentation)
+[Click Here](https://github.com/kiananvari/implementation-of-optimizers-and-regularizations-techniques/raw/main/Documentation.pdf)
 
 ## Results 
 
