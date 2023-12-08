@@ -16,7 +16,7 @@ implementation of optimizers and regularizations techniques and test the result 
 - SGD
 - Momentum-SGD
 - AdaGrad
-- RSMprop 
+- RMSprop 
 - Adam
 
 ## Regularizations
